@@ -8,6 +8,13 @@ class Weight
 
     public static function fromKilograms(float $kilograms): self
     {
+        $arr = [
+            [
+                'huhu',
+                'haha',
+            ],
+        ];
+
         return new static($kilograms);
     }
 
