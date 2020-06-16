@@ -1,17 +1,17 @@
 {
-    "name": "spatie/spatie-conversion",
+    "name": "vonbyte/spatie-conversion",
     "description": "Perform conversions",
     "keywords": [
-        "spatie",
+        "vonbyte",
         "spatie-conversion"
     ],
-    "homepage": "https://github.com/spatie/spatie-conversion",
+    "homepage": "https://github.com/vonbyte/spatie-conversion",
     "license": "MIT",
     "authors": [
         {
             "name": "Tanja von Byte",
             "email": "info@vonbyte.ch",
-            "homepage": "https://spatie.be",
+            "homepage": "https://vonbyte.ch",
             "role": "Developer"
         }
     ],
